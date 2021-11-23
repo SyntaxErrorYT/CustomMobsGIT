@@ -1,0 +1,13 @@
+name: CustomMobsGIT
+version: ${project.version}
+main: me.syntaxerror.custommobsgit.CustomMobsGIT
+api-version: 1.17
+authors: [ SyntaxError ]
+description: Source code for the Custom Mobs in the videos
+commands:
+  leapingspider:
+    description: spawns a leaping spider
+    usage: /<command>
+  necromancer:
+    description: spawns a necromancer
+    usage: /<command>
